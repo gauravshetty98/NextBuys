@@ -1,6 +1,4 @@
-# NextBuys
-
-# Recommendation Engine Website
+# NextBuys - http://nextbuys.co/Login
 
 ## Overview
 This project is a recommendation engine website designed to provide personalized product suggestions based on user interactions. It leverages advanced algorithms such as FP-Growth and Cosine Similarity to deliver two types of recommendations:
