@@ -2,3 +2,16 @@
 src/*
 /src/amazon-purchases.csv
 src/amazon-purchases.csv
+
+
+websiteCodebase/data/Assosiaion_Rules.csv
+websiteCodebase/data/Cosine_sim_final.csv
+
+websiteCodebase/data/Master_Cat.csv
+websiteCodebase/data/Master_prod.csv
+
+websiteCodebase/db_view.py
+websiteCodebase/sqlite_db_gen.py
+
+recommendEngine/
+recommendEngine/*
