@@ -13,5 +13,8 @@ websiteCodebase/data/Master_prod.csv
 websiteCodebase/db_view.py
 websiteCodebase/sqlite_db_gen.py
 
-recommendEngine/
-recommendEngine/*
+/recomendEngine/
+recomendEngine/
+recomendEngine/*
+
+recomendEngine
